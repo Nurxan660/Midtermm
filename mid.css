@@ -1,0 +1,142 @@
+
+body {
+
+  background-image: url('bc.jpg');
+  background-repeat: no-repeat;
+  background-attachment:no-fixed;
+  background-size: cover;
+}
+
+
+.mains {
+	font-size: 5em;
+margin-top: 3em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+.mainss {
+	font-size: 5em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+
+.deff {
+  font-size: 2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+
+
+
+.dot {
+  font-size: 3em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+.aplication {
+  font-size: 3em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+.APP {
+  font-size: 2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 3em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+}
+
+.guide {
+  font-size: 2em;
+margin-top: -17em;
+margin-bottom: 0em;
+margin-left: 20em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+}
+
+
+.admin {
+  font-size: 2em;
+margin-top: -17em;
+margin-bottom: 0em;
+margin-left: 37em;
+margin-right: 3em;
+border: 5px outset none;
+}
+
+
+
+.poys {
+  font-size: 3em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0em;
+border: 5px outset none;
+background-image: url(poys.jpg);
+
+}
+
+
+.buy {
+
+margin-top: -20em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+
+.grid-container {
+  margin-top: 12em;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: white;
+  padding: 5px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 10px;
+  text-align: center;
+}

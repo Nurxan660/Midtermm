@@ -1,0 +1,109 @@
+
+body {
+
+  background-image: url('investbc.jpg');
+  background-repeat: no-repeat;
+  background-attachment:no-fixed;
+  background-size: cover;
+}
+
+
+.mains {
+	font-size: 5em;
+margin-top: 3em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+.mainss {
+	font-size: 5em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+
+.deff {
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 3em;
+border: 5px outset none;
+background-color: none;
+text-align: right;
+
+}
+
+.bptitle {
+	font-size: 5em;
+margin-top: 5em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+
+.bpbody {
+	font-size: 2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+.diagram {
+	font-size: 2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+.bpbodyb {
+	font-size: 2em;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0em;
+margin-right: 0.5em;
+border: 5px outset none;
+background-color: none;
+text-align: center;
+
+}
+
+
+
+.grid-container {
+  margin-top: 5em;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: white;
+  padding: 5px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 10px;
+  text-align: center;
+}
